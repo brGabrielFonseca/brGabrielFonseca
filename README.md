@@ -18,5 +18,5 @@
 
 It is an app developed for sending messages to the future through letters and audios, with the goal of stimulating nostalgia and allowing users to revisit memories that have been forgotten over time.
 
-<img src="https://github.com/user-attachments/assets/bc1aefba-64e7-48b4-87c9-a6ee465e5932" width="500">
+<img src="https://github.com/user-attachments/assets/bc1aefba-64e7-48b4-87c9-a6ee465e5932" width="400">
 
