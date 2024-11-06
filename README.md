@@ -23,7 +23,6 @@ It is an app developed for sending messages to the future through letters and au
 <a href="https://apps.apple.com/us/app/recaps-memories-unlocked/id6737288027">Link AppStore</a>
 
 <br>
-<br>
 
 <b>Projeto Aurora</b>
 
