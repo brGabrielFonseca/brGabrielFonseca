@@ -20,3 +20,14 @@ It is an app developed for sending messages to the future through letters and au
 
 <img src="https://github.com/user-attachments/assets/bc1aefba-64e7-48b4-87c9-a6ee465e5932" width="400">
 
+<br>
+<br>
+
+<b>Projeto Aurora</b>
+
+Projeto Aurora is a serious game developed for middle school students with the goal of promoting engagement in math learning in a relaxed and effective way.
+
+<img src="https://github.com/user-attachments/assets/37d699de-d41e-4f5b-87aa-b90152b1dcd0" width="400">
+
+
+
