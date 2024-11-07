@@ -34,6 +34,26 @@ Projeto Aurora is a serious game developed for middle school students with the g
 
 <br>
 
+<b>Sinale</b>
+
+An app designed to promote accessibility for the deaf, allowing users to organize meetups and events while indicating the accessibility features available at each location, such as sign language interpretation, closed captions, and whether the sound system is transmitted to hearing aids or cochlear implants.
+
+<img src="https://github.com/user-attachments/assets/437c9cf8-0f0e-4876-88fd-c40e03ca9d76" width="400">
+
+<a href="https://apps.apple.com/br/app/sinale/id6469059425?l=en-GB">Link AppStore</a>
+
+<br>
+
+<b>Versos</b>
+
+An app designed for students and teachers aiming to memorize Bible verses, providing tools to support learning, practice, and sharing within a community focused on spiritual growth and scripture retention.
+
+<img src="https://github.com/user-attachments/assets/22eeb892-423d-4c5d-a9e0-6e11e2a6af6c" width="400">
+
+<a href="https://apps.apple.com/br/app/versos/id6503294905?l=en-GB">Link AppStore</a>
+
+<br>
+
 <b>Sansão</b>
 
 It is an educational app developed for high school, designed for managing sanctions such as absences and disciplinary occurrences.
