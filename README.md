@@ -68,6 +68,4 @@ It is an educational app developed for high school, designed for managing sancti
 
 <img src="https://github.com/user-attachments/assets/1827fea3-49c2-482e-af74-b738622a1f8a" width="400">
 
-
-
-
+<br>
