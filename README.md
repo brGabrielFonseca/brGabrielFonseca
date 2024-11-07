@@ -38,7 +38,7 @@ Projeto Aurora is a serious game developed for middle school students with the g
 
 An app designed to promote accessibility for the deaf, allowing users to organize meetups and events while indicating the accessibility features available at each location, such as sign language interpretation, closed captions, and whether the sound system is transmitted to hearing aids or cochlear implants.
 
-<img src="https://github.com/user-attachments/assets/437c9cf8-0f0e-4876-88fd-c40e03ca9d76" width="400">
+<img src="https://github.com/user-attachments/assets/a667b662-e668-4b52-9a49-bf155194fbff" width="400">
 
 <a href="https://apps.apple.com/br/app/sinale/id6469059425?l=en-GB">Link AppStore</a>
 
