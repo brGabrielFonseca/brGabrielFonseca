@@ -32,5 +32,14 @@ Projeto Aurora is a serious game developed for middle school students with the g
 
 <a href="https://apps.apple.com/br/app/projeto-aurora/id6477405562?l=en-GB">Link AppStore</a>
 
+<br>
+
+<b>Sansão</b>
+
+It is an educational app developed for high school, designed for managing sanctions such as absences and disciplinary occurrences.
+
+<img src="https://github.com/user-attachments/assets/1827fea3-49c2-482e-af74-b738622a1f8a" width="400">
+
+
 
 
