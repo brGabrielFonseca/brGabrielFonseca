@@ -32,6 +32,8 @@ Technologies implemented: SwiftUI, UIKit, SpriteKit, and SwiftData. Architecture
 
 Projeto Aurora is a serious game developed for middle school students with the goal of promoting engagement in math learning in a relaxed and effective way.
 
+Technologies implemented: SpriteKit, UIKit, SwiftData and CoreData. Architecture used: MVVM.
+
 <img src="https://github.com/user-attachments/assets/37d699de-d41e-4f5b-87aa-b90152b1dcd0" width="300">
 
 <a href="https://apps.apple.com/br/app/projeto-aurora/id6477405562?l=en-GB">Link AppStore</a>
