@@ -20,6 +20,8 @@
 
 It is an app developed for sending messages to the future through letters and audios, with the goal of stimulating nostalgia and allowing users to revisit memories that have been forgotten over time.
 
+Technologies implemented: SwiftUI, UIKit, SpriteKit, and SwiftData. Architecture used: MVVM.
+
 <img src="https://github.com/user-attachments/assets/bc1aefba-64e7-48b4-87c9-a6ee465e5932" width="300">
 
 <a href="https://apps.apple.com/us/app/recaps-memories-unlocked/id6737288027">Link AppStore</a>
